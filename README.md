@@ -7,9 +7,12 @@ Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on a Mobile Application in Flutter
 - 🌱 I’m currently learning Blockchain
-- 👯 I’m looking to collaborate on Web and App Projects
+- 👯 I’m looking to collaborate any open source / commercial project
 - 💬 Ask me about React, Web Development and App Development
 - 📫 How to reach me: alamkhalid0803@gmail.com
 - ⚡ Fun fact: I love to explore new things
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AlamKhalid)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github.com/AlamKhalid/github-stats/blob/master/generated/overview.svg)
+
+![](https://github.com/AlamKhalid/github-stats/blob/master/generated/languages.svg)
+
