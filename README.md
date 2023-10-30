@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on a Mobile Application in Flutter
-- 🌱 I’m currently learning Blockchain
+- 🔭 I’m currently working on a Healthcare Application in React and Rails
+- 🌱 I’m currently learning Blockchain and AWS
 - 👯 I’m looking to collaborate any open source / commercial project
 - 💬 Ask me about React, Web Development and App Development
 - 📫 How to reach me: alamkhalid0803@gmail.com
